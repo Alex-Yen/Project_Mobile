@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+<<<<<<< HEAD
+        <entry key="..\:/Users/18020/OneDrive/Desktop/mobile app/android/app/src/main/res/layout/activity_disco_cart.xml" value="0.536" />
+        <entry key="..\:/Users/18020/OneDrive/Desktop/mobile app/android/app/src/main/res/layout/activity_homepage.xml" value="0.264" />
+        <entry key="..\:/Users/18020/OneDrive/Desktop/mobile app/android/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/18020/OneDrive/Desktop/mobile app/android/app/src/main/res/layout/activity_map.xml" value="0.25" />
+        <entry key="..\:/Users/18020/OneDrive/Desktop/mobile app/android/app/src/main/res/layout/activity_order_details.xml" value="0.25" />
+        <entry key="..\:/Users/18020/OneDrive/Desktop/mobile app/android/app/src/main/res/layout/activity_order_details2.xml" value="0.25" />
+        <entry key="..\:/Users/18020/OneDrive/Desktop/mobile app/android/app/src/main/res/layout/activity_order_history.xml" value="0.25" />
+        <entry key="..\:/Users/18020/OneDrive/Desktop/mobile app/android/app/src/main/res/layout/activity_order_history2.xml" value="0.25" />
+        <entry key="..\:/Users/18020/OneDrive/Desktop/mobile app/android/app/src/main/res/layout/activity_payment_details.xml" value="0.25" />
+        <entry key="..\:/Users/18020/OneDrive/Desktop/mobile app/android/app/src/main/res/layout/activity_payment_details2.xml" value="0.25" />
+        <entry key="..\:/Users/18020/OneDrive/Desktop/mobile app/android/app/src/main/res/layout/activity_product_catalog.xml" value="0.264" />
+        <entry key="..\:/Users/18020/OneDrive/Desktop/mobile app/android/app/src/main/res/layout/activity_signup.xml" value="0.25" />
+        <entry key="..\:/Users/AmyWong/OneDrive/Documents/GitHub/Project_Mobile_MMU/android/app/src/main/res/layout/activity_disco_cart.xml" value="0.2667572463768116" />
+        <entry key="..\:/Users/AmyWong/OneDrive/Documents/GitHub/Project_Mobile_MMU/android/app/src/main/res/layout/activity_homepage.xml" value="0.2653985507246377" />
+=======
+        <entry key="..\:/Users/AmyWong/OneDrive/Documents/GitHub/Project_Mobile_MMU/android/app/src/main/res/layout/activity_disco_cart.xml" value="0.22" />
+        <entry key="..\:/Users/AmyWong/OneDrive/Documents/GitHub/Project_Mobile_MMU/android/app/src/main/res/layout/activity_homepage.xml" value="0.22" />
+>>>>>>> cf882a5c4cad4af8b6a344ca6758cea6211579b6
+        <entry key="..\:/Users/AmyWong/OneDrive/Documents/GitHub/Project_Mobile_MMU/android/app/src/main/res/layout/activity_login.xml" value="0.325" />
+        <entry key="..\:/Users/AmyWong/OneDrive/Documents/GitHub/Project_Mobile_MMU/android/app/src/main/res/layout/activity_order_details.xml" value="0.24003623188405798" />
+        <entry key="..\:/Users/AmyWong/OneDrive/Documents/GitHub/Project_Mobile_MMU/android/app/src/main/res/layout/activity_order_details2.xml" value="0.190625" />
+        <entry key="..\:/Users/AmyWong/OneDrive/Documents/GitHub/Project_Mobile_MMU/android/app/src/main/res/layout/activity_order_history.xml" value="0.17760416666666667" />
+        <entry key="..\:/Users/AmyWong/OneDrive/Documents/GitHub/Project_Mobile_MMU/android/app/src/main/res/layout/activity_order_history2.xml" value="0.1743659420289855" />
+        <entry key="..\:/Users/AmyWong/OneDrive/Documents/GitHub/Project_Mobile_MMU/android/app/src/main/res/layout/activity_payment_details.xml" value="0.228125" />
+        <entry key="..\:/Users/AmyWong/OneDrive/Documents/GitHub/Project_Mobile_MMU/android/app/src/main/res/layout/activity_payment_details2.xml" value="0.25226449275362317" />
+        <entry key="..\:/Users/AmyWong/OneDrive/Documents/GitHub/Project_Mobile_MMU/android/app/src/main/res/layout/activity_product_catalog.xml" value="0.325" />
+        <entry key="..\:/Users/AmyWong/OneDrive/Documents/GitHub/Project_Mobile_MMU/android/app/src/main/res/layout/cart_item_layout.xml" value="0.5" />
+        <entry key="..\:/Users/tsywo/OneDrive/Documents/GitHub/Project_Mobile_MMU/android/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2703125" />
+        <entry key="..\:/Users/tsywo/OneDrive/Documents/GitHub/Project_Mobile_MMU/android/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/tsywo/OneDrive/Documents/GitHub/Project_Mobile_MMU/android/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/tsywo/OneDrive/Documents/GitHub/Project_Mobile_MMU/android/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/tsywo/OneDrive/Documents/GitHub/Project_Mobile_MMU/android/app/src/main/res/layout/activity_order_details.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/tsywo/OneDrive/Documents/GitHub/Project_Mobile_MMU/android/app/src/main/res/layout/activity_order_history.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/tsywo/OneDrive/Documents/GitHub/Project_Mobile_MMU/android/app/src/main/res/layout/activity_order_history2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/tsywo/OneDrive/Documents/GitHub/Project_Mobile_MMU/android/app/src/main/res/layout/activity_order_history_a.xml" value="0.264" />
+        <entry key="..\:/Users/tsywo/OneDrive/Documents/GitHub/Project_Mobile_MMU/android/app/src/main/res/layout/activity_product_details.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/tsywo/OneDrive/Documents/GitHub/Project_Mobile_MMU/android/app/src/main/res/layout/activity_signup.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/tsywo/OneDrive/Documents/GitHub/Project_Mobile_MMU/android/app/src/main/res/layout/cardview.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/tsywo/OneDrive/Documents/GitHub/Project_Mobile_MMU/android/app/src/main/res/layout/main_fragment.xml" value="0.25416666666666665" />
+        <entry key="..\:/semester_MAY2021/3_Jan_2022/MOBILE_APPLICATION_DEVELOPMENT/Project_Mobile_MMU/android/app/src/main/res/drawable/home_icon.xml" value="0.2890625" />
+        <entry key="..\:/semester_MAY2021/3_Jan_2022/MOBILE_APPLICATION_DEVELOPMENT/Project_Mobile_MMU/android/app/src/main/res/drawable/ic_baseline_payment_24.xml" value="0.2890625" />
+        <entry key="..\:/semester_MAY2021/3_Jan_2022/MOBILE_APPLICATION_DEVELOPMENT/Project_Mobile_MMU/android/app/src/main/res/drawable/logout_icon.xml" value="0.2890625" />
+        <entry key="..\:/semester_MAY2021/3_Jan_2022/MOBILE_APPLICATION_DEVELOPMENT/Project_Mobile_MMU/android/app/src/main/res/layout/activity_disco_cart.xml" value="0.27291666666666664" />
+        <entry key="..\:/semester_MAY2021/3_Jan_2022/MOBILE_APPLICATION_DEVELOPMENT/Project_Mobile_MMU/android/app/src/main/res/layout/activity_homepage.xml" value="0.27291666666666664" />
+        <entry key="..\:/semester_MAY2021/3_Jan_2022/MOBILE_APPLICATION_DEVELOPMENT/Project_Mobile_MMU/android/app/src/main/res/layout/activity_login.xml" value="0.27291666666666664" />
+        <entry key="..\:/semester_MAY2021/3_Jan_2022/MOBILE_APPLICATION_DEVELOPMENT/Project_Mobile_MMU/android/app/src/main/res/layout/activity_main.xml" value="0.27291666666666664" />
+        <entry key="..\:/semester_MAY2021/3_Jan_2022/MOBILE_APPLICATION_DEVELOPMENT/Project_Mobile_MMU/android/app/src/main/res/layout/activity_map.xml" value="0.27291666666666664" />
+        <entry key="..\:/semester_MAY2021/3_Jan_2022/MOBILE_APPLICATION_DEVELOPMENT/Project_Mobile_MMU/android/app/src/main/res/layout/activity_maps.xml" value="0.27291666666666664" />
+        <entry key="..\:/semester_MAY2021/3_Jan_2022/MOBILE_APPLICATION_DEVELOPMENT/Project_Mobile_MMU/android/app/src/main/res/layout/activity_order_details.xml" value="0.27291666666666664" />
+        <entry key="..\:/semester_MAY2021/3_Jan_2022/MOBILE_APPLICATION_DEVELOPMENT/Project_Mobile_MMU/android/app/src/main/res/layout/activity_order_details2.xml" value="0.27291666666666664" />
+        <entry key="..\:/semester_MAY2021/3_Jan_2022/MOBILE_APPLICATION_DEVELOPMENT/Project_Mobile_MMU/android/app/src/main/res/layout/activity_order_history.xml" value="0.33" />
+        <entry key="..\:/semester_MAY2021/3_Jan_2022/MOBILE_APPLICATION_DEVELOPMENT/Project_Mobile_MMU/android/app/src/main/res/layout/activity_order_history2.xml" value="0.27291666666666664" />
+        <entry key="..\:/semester_MAY2021/3_Jan_2022/MOBILE_APPLICATION_DEVELOPMENT/Project_Mobile_MMU/android/app/src/main/res/layout/activity_payment_details.xml" value="0.27291666666666664" />
+        <entry key="..\:/semester_MAY2021/3_Jan_2022/MOBILE_APPLICATION_DEVELOPMENT/Project_Mobile_MMU/android/app/src/main/res/layout/activity_product_catalog.xml" value="0.27291666666666664" />
+        <entry key="..\:/semester_MAY2021/3_Jan_2022/MOBILE_APPLICATION_DEVELOPMENT/Project_Mobile_MMU/android/app/src/main/res/layout/activity_product_details.xml" value="0.27291666666666664" />
+        <entry key="..\:/semester_MAY2021/3_Jan_2022/MOBILE_APPLICATION_DEVELOPMENT/Project_Mobile_MMU/android/app/src/main/res/layout/activity_product_details2.xml" value="0.27291666666666664" />
+        <entry key="..\:/semester_MAY2021/3_Jan_2022/MOBILE_APPLICATION_DEVELOPMENT/Project_Mobile_MMU/android/app/src/main/res/layout/activity_signup.xml" value="0.27291666666666664" />
+        <entry key="..\:/semester_MAY2021/3_Jan_2022/MOBILE_APPLICATION_DEVELOPMENT/Project_Mobile_MMU/android/app/src/main/res/layout/backup.xml" value="0.35826771653543305" />
+        <entry key="..\:/semester_MAY2021/3_Jan_2022/MOBILE_APPLICATION_DEVELOPMENT/Project_Mobile_MMU/android/app/src/main/res/menu/bottom_navigation.xml" value="0.27291666666666664" />
+        <entry key="..\:/semester_MAY2021/3_Jan_2022/MOBILE_APPLICATION_DEVELOPMENT/Project_Mobile_MMU/android/app/src/main/res/menu/search_function.xml" value="0.27291666666666664" />
+        <entry key="..\:/semester_MAY2021/3_Jan_2022/MOBILE_APPLICATION_DEVELOPMENT/Project_Mobile_MMU/android/app/src/main/res/menu/user2_bottom_navigation.xml" value="0.27291666666666664" />
+        <entry key="..\:/semester_MAY2021/3_Jan_2022/MOBILE_APPLICATION_DEVELOPMENT/Project_Mobile_MMU/android/app/src/main/res/menu/user_bottom_navigation.xml" value="0.27291666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
